@@ -1,8 +1,8 @@
 {
-  "name": "intermediate-astro-kit-less",
+  "name": "bodyproper",
   "type": "module",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Brainchild of Bill Lagakos and Ash Simmonds",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "astro": "^4.3.5",
+    "astro": "^3.3.1",
     "astro-netlify-cms": "^0.5.4",
     "autoprefixer": "^10.4.16",
     "less": "^4.2.0"
