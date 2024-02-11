@@ -1,13 +1,13 @@
 ---
 title: Canitiem Saxa
 description: Lorem markdownum trabeati dicere deus.
-author: Code Stitch
-date: 2023-06-08T15:28:08.486Z
+author: Bill Lagakos
+date: 2024-01-08T15:28:08.486Z
 tags:
     - post
     - featured
 image: /assets/images/blog/landing.jpg
-imageAlt: Kitchen
+imageAlt: Bodyduilder bro
 ---
 
 ## Aut inter Petraeum
